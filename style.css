@@ -12,18 +12,18 @@
     color: #777;
   }
 
-  h1, h2, h3 {
-    margin-bottom: 20px;
-    font-family: Georgia, Times, "Times New Roman", serif;
-    font-weight: 700;
-    color: #27a3d4;
-  }
-  
   h1 {
     padding-bottom: 20px;
     font-size: 30px;
     line-height: 49px;
     border-bottom: 3px solid #ddd;
+  }
+
+  h1, h2, h3 {
+    margin-bottom: 20px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #27a3d4;
   }
   
   h2, h3 {
